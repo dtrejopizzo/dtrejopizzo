@@ -8,10 +8,10 @@
 
 ## What I'm building
 
-### ⚡ [Carbo Energy](https://carboenergy.com)
+### ⚡ [Carbo Energy](https://carbo.energy)
 Hybrid non-aqueous redox flow battery for long-duration grid-scale energy storage — beating lithium-ion on cost, safety, and cycle life.
 
-### 🧠 [OpenCoresAI](https://opencoresai.com)
+### 🧠 [OpenCoresAI](https://opencores.ai)
 AI/ML research lab focused on novel neural architectures and efficient inference.
 
 - **DeltaCore** — gated linear recurrence + ternary weight quantization + selective attention (52.6M params)
