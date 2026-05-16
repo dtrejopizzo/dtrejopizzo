@@ -9,11 +9,7 @@
 ## What I'm building
 
 ### ⚡ [Carbo Energy](https://carboenergy.com)
-Hybrid non-aqueous redox flow battery for long-duration grid-scale energy storage — beating lithium-ion on cost, safety, and cycle life. Currently raising a $3M Seed round.
-
-- Independently validated active materials cost: **~$126/kWh**
-- Traction: YPF pre-order · Ecopetrol & DHL pilots · AlmaSADI national grid tender (10 MW / 120 MWh)
-- NDA with University of Nevada Reno for US pilot deployment
+Hybrid non-aqueous redox flow battery for long-duration grid-scale energy storage — beating lithium-ion on cost, safety, and cycle life.
 
 ### 🧠 [OpenCoresAI](https://opencoresai.com)
 AI/ML research lab focused on novel neural architectures and efficient inference.
