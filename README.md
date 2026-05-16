@@ -21,7 +21,6 @@ AI/ML research lab focused on novel neural architectures and efficient inference
 
 ## Previously
 
-- 🌲 **Sistema Fénix** — forest fire detection for Patagonia using GOES-16 satellite + AI super-resolution (SwinIR/RAMS), sub-10-minute alerts
 - 🏢 **Nydro Energy** — founder, successful exit
 
 ---
@@ -44,18 +43,11 @@ AI/ML research lab focused on novel neural architectures and efficient inference
 
 ---
 
-## GitHub Stats
-
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=dtrejopizzo&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dtrejopizzo&layout=compact&theme=dark&hide_border=true)
-
----
 
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/dtrejopizzo)
 [![Twitter/X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/dtrejopizzo)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:david@carboenergy.com)
 
 ---
 
